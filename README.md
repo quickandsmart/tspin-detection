@@ -10,7 +10,7 @@ To test the model I used a single replay of two of the best playeres, Blaarg and
 
 ### Tested Video 
 
-https://www.youtube.com/watch?v=gP3fBBHqy7w
+[![](https://img.youtube.com/vi/gP3fBBHqy7w/maxresdefault.jpg)](https://www.youtube.com/watch?v=gP3fBBHqy7w)
 
 ## Dependencies and How to test your own replay
 
