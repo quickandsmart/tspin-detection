@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['tspin']
+
+roboflow:
+  workspace: anton-vernikov-lqgck
+  project: tspin-detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/anton-vernikov-lqgck/tspin-detection/dataset/2
