@@ -21,4 +21,4 @@ Once you've downloaded the files, first make sure you have the correct package v
 * The dataset only labels tspin doubles so potential future work would be to expand the model to detect different tspin setups such as tspin triples, super tspin doubles, etc.
 * The model was only trained using screenshots of tetr.io and 1v1s specifically, so in the future I might look to expand upon this by having a larger dataset that contains images from other games like jstris, Tetris Effect, and Puyo Puyo Tetris.
 * Deploying the model live so it can be used to do real time detection in 1v1s. While my laptop isn't able to do this fast enough, with a GPU it was able to do so around 60 fps which is enough to handle the speed of top players. 
-* I noticed is the file size seems to grow much larger after training, so doing research on if this is common for most computer vision algorithms or if there's away to reduce this. 
+* I noticed the file size seems to grow much larger after training, so doing research on if this is common for most computer vision algorithms or if there's away to reduce this. 
